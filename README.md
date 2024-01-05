@@ -1,4 +1,4 @@
-# Standardized-Modular-Components
+# Standardized Modular Components (SMC)
 
 ## Overview
 Standardized Modular Components is a set of components and design rules optimized for user experience and 3D printing. 
